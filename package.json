@@ -1,5 +1,5 @@
 {
-  "name": "react-cropper",
+  "name": "@eidosmedia/react-cropper",
   "version": "2.1.8",
   "description": "Cropper as React Component",
   "main": "dist/react-cropper.umd.js",
@@ -21,7 +21,7 @@
   "maintainers": [
     "Shubhendu Shekhar <connect@shubhendu.de>"
   ],
-  "homepage": "https://github.com/react-cropper/react-cropper/",
+  "homepage": "https://github.com/EidosMedia/react-cropper/",
   "bugs": {
     "url": "https://github.com/react-cropper/react-cropper/issues"
   },
@@ -35,10 +35,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-cropper/react-cropper.git"
+    "url": "https://github.com/EidosMedia/react-cropper.git"
   },
   "dependencies": {
-    "cropperjs": "^1.5.12"
+    "@eidosmedia/cropperjs": "^1.5.12"
   },
   "peerDependencies": {
     "react": ">=16.0.0"
