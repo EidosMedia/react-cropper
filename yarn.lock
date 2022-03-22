@@ -1896,6 +1896,11 @@
   dependencies:
     chalk "^4.0.0"
 
+"@eidosmedia/cropperjs@^1.5.12":
+  version "1.5.12"
+  resolved "https://artifactory.eidosmedia.sh/artifactory/api/npm/npm-registry/@eidosmedia/cropperjs/-/@eidosmedia/cropperjs-1.5.12.tgz#29708d6ffedd02165c68d62e618a20bfd9015570"
+  integrity sha512-wbfVOkvgrso0R6nuW3863+jDHKlIl+zAC46/x316a1J+C8HDRi2yanc2Sa22Ajca/a0Dg3R9AFAmiK2N/A7UIg==
+
 "@eslint/eslintrc@^0.4.2":
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.2.tgz#f63d0ef06f5c0c57d76c4ab5f63d3835c51b0179"
@@ -3851,11 +3856,6 @@ cosmiconfig@^7.0.0:
     parse-json "^5.0.0"
     path-type "^4.0.0"
     yaml "^1.10.0"
-
-cropperjs@^1.5.12:
-  version "1.5.12"
-  resolved "https://registry.yarnpkg.com/cropperjs/-/cropperjs-1.5.12.tgz#d9c0db2bfb8c0d769d51739e8f916bbc44e10f50"
-  integrity sha512-re7UdjE5UnwdrovyhNzZ6gathI4Rs3KGCBSc8HCIjUo5hO42CtzyblmWLj6QWVw7huHyDMfpKxhiO2II77nhDw==
 
 cross-spawn@^6.0.0, cross-spawn@^6.0.5:
   version "6.0.5"

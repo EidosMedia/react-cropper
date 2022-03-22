@@ -1,5 +1,5 @@
 import React from 'react';
-import Cropper from 'cropperjs';
+import Cropper from '@eidosmedia/cropperjs';
 interface ReactCropperElement extends HTMLImageElement {
     cropper: Cropper;
 }

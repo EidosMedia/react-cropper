@@ -14,7 +14,7 @@ export default {
         sourcemap: true,
         globals: {
             react: 'React',
-            cropperjs: 'cropperjs',
+            cropperjs: '@eidosmedia/cropperjs',
             'react-dom': 'ReactDOM',
         },
     },
