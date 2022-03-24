@@ -1,6 +1,6 @@
 {
   "name": "@eidosmedia/react-cropper",
-  "version": "2.1.8",
+  "version": "2.1.9",
   "description": "Cropper as React Component",
   "main": "dist/react-cropper.umd.js",
   "module": "dist/react-cropper.es.js",
@@ -38,7 +38,7 @@
     "url": "https://github.com/EidosMedia/react-cropper.git"
   },
   "dependencies": {
-    "@eidosmedia/cropperjs": "^1.5.12"
+    "@eidosmedia/cropperjs": "^1.5.13"
   },
   "peerDependencies": {
     "react": ">=16.0.0"
